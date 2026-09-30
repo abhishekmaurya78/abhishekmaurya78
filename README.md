@@ -45,7 +45,7 @@
 - PgAdmin 4
 - Microsoft Excel
 - Power BI (Learning)
-
+- Leet Code
 ---
 
 ## 🚀 Featured Projects
@@ -65,7 +65,7 @@ A Python-based Data Analytics Platform developed for analyzing customer behavior
 
 ### Technologies Used
 
-Python | Pandas | NumPy | Matplotlib | OpenPyXL | CSV
+Python | Pandas | NumPy | Matplotlib | Seaborne| OpenPyXL | CSV |
 
 ---
 
@@ -93,7 +93,6 @@ Python | CSV | File Handling | Tkinter
 
 🏅 Skill India AI – DevOps Analyst
 
-📖 DA-DA Progress Program by Vikas Singh (Coding Seekho) *(Currently Learning)*
 
 ---
 
@@ -104,8 +103,8 @@ Python | CSV | File Handling | Tkinter
 - Data Science
 - Machine Learning
 - Deep Learning
-- Power BI
-- SQL Optimization
+- NLP
+- Generative AI
 - Git & GitHub
 
 ---
