@@ -8,11 +8,11 @@
 
 🎓 B.Tech 3rd Year (CSE - Artificial Intelligence) Student at **BBD University, Lucknow**
 
-💻 Passionate about **Python, SQL, Data Analytics, Data Science, Machine Learning, and Artificial Intelligence**
+💻 Passionate about **Python, SQL, Data Analytics, Data Science, Machine Learning, Deep Learning, NLP and Artificial Intelligence**
 
 🚀 I enjoy building real-world software applications and data-driven solutions that solve practical problems.
 
-📚 Currently learning **Advanced Python, Data Analytics, Data Science, Machine Learning, Deep Learning, Power BI, Git & GitHub**
+📚 Currently learning **Advanced Python, Data Analytics, Data Science, Machine Learning, Deep Learning, Power BI, NLP, Git & GitHub**
 
 🎯 Actively looking for **Internship** and **Entry-Level Opportunities** in **Software Development** and **Data Analytics**
 
@@ -24,7 +24,9 @@
 - Python
 - SQL
 - C (Basic)
-
+- Machine Learning
+- Java (Basic)
+  
 ### 🗄️ Database
 - MySQL
 - PostgreSQL (Learning)
@@ -35,17 +37,20 @@
 - Matplotlib
 - Seaborn
 - OpenPyXL
+- Sk Learn
 
 ### ⚙️ Tools & Platforms
 - Git
 - GitHub
 - VS Code
 - Google Colab
+- jupyter
 - MySQL Workbench
 - PgAdmin 4
 - Microsoft Excel
 - Power BI (Learning)
 - Leet Code
+- Hacker Rank
 ---
 
 ## 🚀 Featured Projects
